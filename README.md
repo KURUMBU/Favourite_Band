@@ -15,8 +15,8 @@ This is the landing page for my favourite band. The project is to test my unders
 * An introductory paragraph of the band and why they are my favorite band
 * Make the page as visually appealing as you can with the knowledge you have learnt so far
 | Albums | Present Members |
-| --------------------------------| -------------------------------------------------- |
-|![Albums](Screenshots/Albums.png)|![Present Members](Screenshots/Present Members.png) |
+| ----------------------------------| --------------------------------------------------- |
+| ![Albums](Screenshots/Albums.png) | ![Present Members](Screenshots/Present Members.png) |
 
 * The main goal is to create a page that resembles the one provided.
 
