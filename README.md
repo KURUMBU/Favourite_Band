@@ -1,15 +1,22 @@
-Independent Project #3 |
- #StreetFood Website
+Independent Project #1 |
+ #FavouriteBand Website
 
 
-# {STREETFOOD}
+# {FAVOURITE BAND}
 #### {Landing Page}, {August 2023}
 #### By **{Roy Kimari}**
 ## Description
-This is the landing page for a restaurant website. The project is to test my understanding and skill in HTML and CSS up to now. I am to design the page with clear identification from a guiding png provided. 
-| Header | Body | Footer |
-| ------------------------------------| -------------------------------- | ----------------------------------- |
-|![Header](src/Screenshots/header.png)|![Body](src/Screenshots/body.png) |![Footer](src/Screenshots/footer.png)|
+This is the landing page for my favourite band. The project is to test my understanding and skill in HTML and CSS up to now. I am to design the page providing the following necessary requirements;
+* List of my favorite songs or albums.
+* Add a list of their songs or album
+* A short biography paragraph for each member of the band.
+* An image of each of the band member alongside their biography.
+* Links to their songs especially the ones that are my favorite. 
+* An introductory paragraph of the band and why they are my favorite band
+* Make the page as visually appealing as you can with the knowledge you have learnt so far
+| Albums | Present Members |
+| ------------------------------------| -------------------------------- |
+|![Albums](Albums.png)|![Present Members](Present Members.png) |
 
 * The main goal is to create a page that resembles the one provided.
 
@@ -24,8 +31,8 @@ This is the landing page for a restaurant website. The project is to test my und
 This is how to set up and run this code on your computer:
 
 1. Open your browser on your computer and access your git hub account.
-2. Search ```https://github.com/KURUMBU/restaurant_website.git``` in your browser.
-3. Using your terminal type ```git clone https://github.com/KURUMBU/restaurant_website.git```.
+2. Search ```(https://github.com/KURUMBU/Favourite_Band.git)``` in your browser.
+3. Using your terminal type ```git clone https://github.com/KURUMBU/Favourite_Band.git```.
 4. Place the repo into your working directory.
 5. Type ```code . ``` to open it in your visual studio code.
 6. Right-click your code to open live server for the interface preview.
